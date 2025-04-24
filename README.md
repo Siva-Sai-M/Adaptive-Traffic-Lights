@@ -1,2 +1,4 @@
 # Adaptive-Traffic-Lights
 An IoT project on Adaptive Traffic Lights : Enhancing Mobily, Emergency Response and Pollution Monitoring.
+
+This project develops an intelligent traffic management system that dynamically adjusts signal timings based on real-time traffic density, emergency vehicle detection, and pollution levels. Cameras at junctions monitor traffic flow to optimize signals and reduce congestion. Emergency vehicles, such as ambulances and fire trucks, are prioritized by automatically clearing their path. In accident scenarios, if a patient is in a non-emergency vehicle, the system detects and adjusts signals for faster passage. Additionally, pollution levels are monitored, and real-time air quality data is sent to municipal authorities for environmental insights. This integrated approach enhances traffic efficiency, emergency response, and urban air quality management.
